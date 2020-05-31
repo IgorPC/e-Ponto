@@ -6,11 +6,13 @@
 
 ## Sobre o projeto:
 
-   <p>O laraorders foi um projeto totalmente idealizado por mim, e ele simula o funcionamento de um sistema de agendamento de ordens de serviço de uma pequena empresa.</p>
+   <p>O e-Ponto foi um projeto totalmente idealizado por mim, e ele simula o funcionamento de um relógio de ponto de uma pequena empresa.</p>
 
-   <p>Esse sistema foi desenvolvido utilizando Laravel, PostgreSQL, Javascript e Bootstrap.</p>
+   <p>Ele permite que um usuário cadastre sua própria empresa ou se vincule a uma empresa já existente, caso ele queria se vincular a uma empresa, o administrador da empresa solicitada deve aceitar o pedido, uma vez vinculado a uma empresa, o usuário consegue registrar seus pontos.</p>
 
-   <p>Sua principal funcionalidade é permitir que os usuários cadastrem clientes e serviços, e utilizando esses dados possam agendar ordens para atender esses clientes, com prazos de SLA sinalizados por cores que mudam conforme o tempo que a ordem tenha sido agendada. Quando a ordem for finalizada o usuário pode gerar uma impressão daquela ordem em PDF (Utilizando o mPDF) e entregar ou enviar por email para o cliente.</p>
+   <p>O usuário administrador consegue desvincular os usuários vinculados a sua empresa ou inutilizar a mesma, em caso de inutilizarão, todos os colaboradores vinculados a empresa com exceção do administrador são automaticamente desvinculados e passa ser impossível se vincular a empresa ate que o administrador ative ela novamente.</p>
+
+   <p>Por fim, o administrador da empresa consegue gerar relatórios dos colaboradores vinculados a empresa em formato PDF (Utilizado o mPDF).</p>
 
 ## Tecnologias Utilizadas
 
@@ -22,5 +24,9 @@
 </ul>    
 
 ## Acesse o projeto
+<h5>Informação importante: </h5>
+<p>Caso não queira se cadastrar no sistema para testa-lo, você pode utilizar o acesso padrão: </p>
+<p>Email: admin@admin.com</p>
+<p>Senha: 12345678</p>
 
 <h3><a href="https://laraorders.herokuapp.com/" target="_blank">Laraorders</a></h3>
