@@ -29,4 +29,4 @@
 <p>Email: admin@admin.com</p>
 <p>Senha: 12345678</p>
 
-<h3><a href="https://laraorders.herokuapp.com/" target="_blank">Laraorders</a></h3>
+<h3><a href="https://laraorders.herokuapp.com/" target="_blank">e-Ponto</a></h3>
