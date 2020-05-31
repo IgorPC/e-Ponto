@@ -1,0 +1,92 @@
+.body{
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.titulo{
+    font-size: 1em;
+    font-weight: bold;
+    font-family: 'Pacifico', cursive;
+    margin-right: 1em;
+}
+
+.titulo-interno{
+    font-size: 3em;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+    margin-right: 1em;
+}
+
+.menu{
+    background-color: #abd3ff;
+    font-weight: bold;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+.menu-options{
+    color: black;
+}
+
+.links{
+    color: black;
+    text-decoration: none;
+    transition: color, 0.5s;
+}
+
+.links:hover{
+    text-decoration: none;
+    color: #4b65ff;
+}
+
+.empresa-status{
+    font-size: 2em;
+}
+
+@media (min-width: 767px) {
+    .status{
+        margin-top: 35%;
+    }
+}
+
+@media (min-width: 991px) {
+    .status{
+        margin-top: 20%;
+        font-size: 1.5em;
+    }
+}
+
+@media (min-width: 991px) {
+    .status{
+        margin-top: 10%;
+    }
+}
+
+.title {
+    font-size: 4em;
+    color: #000bce;
+    text-shadow: 1px 1px black;
+    font-family: 'Pacifico', cursive;
+}
+
+.texto-modal{
+    text-indent: 1em;
+    text-align: justify;
+}
+
+.icons-modal{
+    color: black;
+    text-decoration: none;
+    font-size: 2em;
+    transition: color, text-shadow, 0.5s;
+}
+
+.icons-modal:hover{
+    color: #000bce;
+    text-shadow: 1px 1px #6b80ce;
+}
+
+.modal-contato{
+    font-family: 'Pacifico', cursive;
+    color: #000bce;
+    font-size: 2em;
+}
+
