@@ -1,4 +1,4 @@
-<p align="center"><img src="https://raw.githubusercontent.com/IgorPC/e-Ponto/master/public/eponto.png" width="400"></p>
+<p align="center"><a href="http://neweponto.herokuapp.com/"><img src="https://raw.githubusercontent.com/IgorPC/e-Ponto/master/public/eponto.png" width="400"></a></p>
 
 <p align="center">
 <a style="color: black" href="http://neweponto.herokuapp.com/login">Login</a>
@@ -29,4 +29,4 @@
 <p>Email: admin@admin.com</p>
 <p>Senha: 12345678</p>
 
-<h3><a href="https://laraorders.herokuapp.com/" target="_blank">e-Ponto</a></h3>
+<h3><a href="http://neweponto.herokuapp.com/" target="_blank">e-Ponto</a></h3>
