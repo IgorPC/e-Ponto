@@ -21,6 +21,7 @@
     <li>PHP</li>
     <li>JavaScript</li>
     <li>PostgreSQL</li>
+    <li>Bootstrap</li>
 </ul>    
 
 ## Acesse o projeto
